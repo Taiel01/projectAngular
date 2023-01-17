@@ -1,0 +1,26 @@
+
+p{
+    color: aliceblue;
+}
+
+.NPag{
+    color: aliceblue;
+    font-size: larger;
+}
+
+.button{
+    background-color: #4a4a4a;
+    padding: 10px;
+}
+
+.button:hover{
+    background-color: rgb(161, 161, 161);
+}
+
+.nav{
+    background-color: rgba(78, 78, 78, 0.342);
+    display: flex;
+    align-content: space-between;
+    justify-content: space-around;
+    align-items: center;
+}
